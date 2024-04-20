@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+/* Define the styles for the navigation bar */
+.topnav {
+  /* background: linear-gradient(90deg, #ff0000, #0000ff, #00ffff); Gradient background with red, blue, and cyan */
+  height: 10%;
+  background: rgb(205, 63, 251);
+  background: radial-gradient(circle, rgba(205, 63, 251, 1) 1%, rgba(66, 63, 251, 1) 100%);
+  overflow: hidden;
+  margin: 50px;
+  border-radius: 20px;
+}
+
+/* Style the header */
+.header {
+  text-align: center;
+  color: #f2f2f2;
+  /* Text color */
+  padding: 14px 0;
+  /* Padding around the header */
+}
